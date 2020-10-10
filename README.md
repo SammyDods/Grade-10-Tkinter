@@ -1,4 +1,4 @@
-# Grade 10 Tkinter
+# Grade 10 Tkinter Calculator
  This is a GUI calculator I made in grade 10 using the Tkinter module
 
 In grade 10 I thought I was quite smart to use string manipulation then "eval" to perform calculations. 
